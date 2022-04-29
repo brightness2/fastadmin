@@ -1,0 +1,39 @@
+// https://shop.demo.fastadmin.net/admin.php/shop/category/index/noKeyField/100
+{
+    "total": 1,
+    "list": [
+        {
+            "id": 9,
+            "type": null,
+            "pid": 0,
+            "isnav": 1,
+            "name": "食物饮品",
+            "nickname": "",
+            "outlink": null,
+            "flag": "index",
+            "image": "",
+            "keywords": "",
+            "description": "",
+            "icon": "shopicon icon-bowl-one",
+            "diyname": "shiwuyinpin",
+            "createtime": 1623314689,
+            "updatetime": 1638262229,
+            "weigh": 10,
+            "status": "hidden",
+            "attribute": {
+                "id": 7,
+                "category_id": 9,
+                "is_search": 1,
+                "is_must": 0,
+                "type": "radio",
+                "name": "颜色",
+                "createtime": 1635471145,
+                "updatetime": 1635471145,
+                "type_text": "Type radio"
+            },
+            "flag_text": "首页",
+            "status_text": "隐藏",
+            "url": "\/c\/shiwuyinpin.html"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+// https://shop.demo.fastadmin.net/admin.php/shop/freight/index
+{
+    "list": [
+        {
+            "id": 1,
+            "name": "按件",
+            "pid": 0
+        },
+        {
+            "id": 2,
+            "name": "按重量",
+            "pid": 0
+        }
+    ],
+    "total": 2
+}

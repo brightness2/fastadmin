@@ -1,0 +1,27 @@
+{
+    "total": 2,
+    "rows": [
+        {
+            "id": 9,
+            "category_id": 10,
+            "is_search": 1,
+            "is_must": 0,
+            "type": "radio",
+            "name": "容量",
+            "createtime": 1635471260,
+            "updatetime": 1635471260,
+            "type_text": "单选"
+        },
+        {
+            "id": 8,
+            "category_id": 10,
+            "is_search": 1,
+            "is_must": 0,
+            "type": "radio",
+            "name": "颜色",
+            "createtime": 1635471254,
+            "updatetime": 1635471254,
+            "type_text": "单选"
+        }
+    ]
+}

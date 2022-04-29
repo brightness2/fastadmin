@@ -1,0 +1,16 @@
+// https://shop.demo.fastadmin.net/admin.php/shop/guarantee/index
+{
+    "list": [
+        {
+            "id": 1,
+            "name": "放心购",
+            "pid": 0
+        },
+        {
+            "id": 2,
+            "name": "在线客服",
+            "pid": 0
+        }
+    ],
+    "total": 2
+}

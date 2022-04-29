@@ -1,0 +1,430 @@
+// https://shop.demo.fastadmin.net/admin.php/shop/report/index
+{
+    "code": 1,
+    "msg": "",
+    "data": {
+        "orderSaleCategory": [
+            "00:00",
+            "01:00",
+            "02:00",
+            "03:00",
+            "04:00",
+            "05:00",
+            "06:00",
+            "07:00",
+            "08:00",
+            "09:00",
+            "10:00",
+            "11:00",
+            "12:00",
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00",
+            "17:00",
+            "18:00",
+            "19:00",
+            "20:00",
+            "21:00",
+            "22:00",
+            "23:00"
+        ],
+        "orderSaleAmount": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            80,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "orderSaleNums": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "afterSaleCategory": [
+            "00:00",
+            "01:00",
+            "02:00",
+            "03:00",
+            "04:00",
+            "05:00",
+            "06:00",
+            "07:00",
+            "08:00",
+            "09:00",
+            "10:00",
+            "11:00",
+            "12:00",
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00",
+            "17:00",
+            "18:00",
+            "19:00",
+            "20:00",
+            "21:00",
+            "22:00",
+            "23:00"
+        ],
+        "afterSaleAmount": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "afterSaleNums": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "totalOrderAmount": 267429.75,
+        "todayOrderAmount": 80,
+        "yesterdayOrderAmount": 0,
+        "todayOrderRatio": 100,
+        "totalRefundAmount": 18450.15,
+        "yesterdayRefundAmount": 0,
+        "todayRefundAmount": 0,
+        "totalProfitAmount": 248979.6,
+        "mapOrderList": [
+            {
+                "name": "北京",
+                "id": 1,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "天津",
+                "id": 19,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "河北",
+                "id": 37,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "山西",
+                "id": 216,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "内蒙古",
+                "id": 345,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "辽宁",
+                "id": 461,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "吉林",
+                "id": 576,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "黑龙江",
+                "id": 646,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "上海",
+                "id": 782,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "江苏",
+                "id": 800,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "浙江",
+                "id": 909,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "安徽",
+                "id": 1011,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "福建",
+                "id": 1132,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "江西",
+                "id": 1226,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "山东",
+                "id": 1338,
+                "value": 1,
+                "amount": "80.00",
+                "nums": "1",
+                "rate": 100
+            },
+            {
+                "name": "河南",
+                "id": 1491,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "湖北",
+                "id": 1682,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "湖南",
+                "id": 1885,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "广东",
+                "id": 2022,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "广西",
+                "id": 2225,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "海南",
+                "id": 2351,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "重庆",
+                "id": 2612,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "四川",
+                "id": 2653,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "贵州",
+                "id": 2858,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "云南",
+                "id": 2956,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "西藏",
+                "id": 3102,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "陕西",
+                "id": 3184,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "甘肃",
+                "id": 3302,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "青海",
+                "id": 3408,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "宁夏",
+                "id": 3462,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "新疆",
+                "id": 3490,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "台湾",
+                "id": 3686,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "香港",
+                "id": 3687,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "澳门",
+                "id": 3706,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            },
+            {
+                "name": "南海诸岛",
+                "id": 0,
+                "value": 0,
+                "amount": 0,
+                "rate": 0
+            }
+        ],
+        "legendData": [
+            "母婴玩具"
+        ],
+        "seriesData": [
+            {
+                "name": "母婴玩具",
+                "value": "1"
+            }
+        ]
+    },
+    "url": "",
+    "wait": 3
+}

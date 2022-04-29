@@ -1,0 +1,13 @@
+{
+    "total": 1,
+    "rows": [
+        {
+            "id": 1,
+            "name": "品牌1",
+            "image": "",
+            "createtime": 1626161916,
+            "updatetime": 1626161916,
+            "weigh": 1
+        }
+    ]
+}

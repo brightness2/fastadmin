@@ -1,0 +1,97 @@
+//https://shop.demo.fastadmin.net/admin.php/shop/attribute/attrs?category_id=9
+{
+    "code": 1,
+    "msg": "获取成功",
+    "data": [
+        {
+            "id": 5,
+            "category_id": 9,
+            "is_search": 1,
+            "is_must": 0,
+            "type": "radio",
+            "name": "温度",
+            "createtime": 1635471103,
+            "updatetime": 1635471103,
+            "attribute_value": [
+                {
+                    "id": 20,
+                    "attribute_id": 5,
+                    "name": "热",
+                    "createtime": 1635471187,
+                    "updatetime": 1635471187
+                },
+                {
+                    "id": 21,
+                    "attribute_id": 5,
+                    "name": "冷",
+                    "createtime": 1635471191,
+                    "updatetime": 1635471191
+                }
+            ],
+            "type_text": "单选"
+        },
+        {
+            "id": 6,
+            "category_id": 9,
+            "is_search": 1,
+            "is_must": 0,
+            "type": "radio",
+            "name": "容量",
+            "createtime": 1635471135,
+            "updatetime": 1635471135,
+            "attribute_value": [
+                {
+                    "id": 17,
+                    "attribute_id": 6,
+                    "name": "1L",
+                    "createtime": 1635471168,
+                    "updatetime": 1635471168
+                },
+                {
+                    "id": 18,
+                    "attribute_id": 6,
+                    "name": "1.5L",
+                    "createtime": 1635471172,
+                    "updatetime": 1635471172
+                },
+                {
+                    "id": 19,
+                    "attribute_id": 6,
+                    "name": "2L",
+                    "createtime": 1635471176,
+                    "updatetime": 1635471176
+                }
+            ],
+            "type_text": "单选"
+        },
+        {
+            "id": 7,
+            "category_id": 9,
+            "is_search": 1,
+            "is_must": 0,
+            "type": "radio",
+            "name": "颜色",
+            "createtime": 1635471145,
+            "updatetime": 1635471145,
+            "attribute_value": [
+                {
+                    "id": 15,
+                    "attribute_id": 7,
+                    "name": "红色",
+                    "createtime": 1635471154,
+                    "updatetime": 1635471154
+                },
+                {
+                    "id": 16,
+                    "attribute_id": 7,
+                    "name": "蓝色",
+                    "createtime": 1635471158,
+                    "updatetime": 1635471158
+                }
+            ],
+            "type_text": "单选"
+        }
+    ],
+    "url": "",
+    "wait": 3
+}

@@ -1,0 +1,26 @@
+{
+    "total": 3,
+    "rows": [
+        {
+            "id": 24,
+            "attribute_id": 9,
+            "name": "256G",
+            "createtime": 1635471284,
+            "updatetime": 1635471284
+        },
+        {
+            "id": 23,
+            "attribute_id": 9,
+            "name": "128G",
+            "createtime": 1635471280,
+            "updatetime": 1635471280
+        },
+        {
+            "id": 22,
+            "attribute_id": 9,
+            "name": "64G",
+            "createtime": 1635471269,
+            "updatetime": 1635471269
+        }
+    ]
+}

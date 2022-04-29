@@ -1,0 +1,25 @@
+{
+    "total": 2,
+    "rows": [
+        {
+            "id": 2,
+            "name": "在线客服",
+            "image": null,
+            "intro": "7*24小时在线客服",
+            "createtime": 1624071795,
+            "updatetime": 1624071795,
+            "status": "normal",
+            "status_text": "正常"
+        },
+        {
+            "id": 1,
+            "name": "放心购",
+            "image": null,
+            "intro": "7天无理由退货",
+            "createtime": 1624071780,
+            "updatetime": 1624071780,
+            "status": "normal",
+            "status_text": "正常"
+        }
+    ]
+}
